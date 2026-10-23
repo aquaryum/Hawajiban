@@ -1759,6 +1759,9 @@ a {
   color: #232323;
   text-align: left;
 }
+.cid-vy0kKFCPqM .mbr-text P {
+  text-align: justify;
+}
 .cid-vyzr9JrnCH {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1833,4 +1836,10 @@ a {
 .cid-vyzri5KoHq .card-box {
   text-align: left;
   color: #000000;
+}
+.cid-vyQUp3lJav {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #443627;
+  overflow: hidden;
 }
